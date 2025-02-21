@@ -95,6 +95,14 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # ---------------------------
+# Disclaimer Message
+# ---------------------------
+st.warning("""
+⚠️ **Disclaimer**: The AI predictions are not 100% accurate. Results are for informational purposes only. 
+Always consult an agricultural expert for professional advice.
+""")
+
+# ---------------------------
 # Sidebar
 # ---------------------------
 with st.sidebar:
