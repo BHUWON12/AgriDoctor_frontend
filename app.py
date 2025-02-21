@@ -4,7 +4,7 @@ from PIL import Image
 import io
 
 # FastAPI Backend URL
-API_URL = "http://localhost:8000/predict/"
+API_URL = "https://agridoctor-backend.onrender.com/predict/"
 
 # Set page config
 st.set_page_config(
