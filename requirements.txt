@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 appdirs==1.4.4
 argon2-cffi==21.1.0
 asttokens==2.4.1
@@ -304,3 +305,9 @@ widgetsnbextension==4.0.9
 wsproto==1.2.0
 xdg==5
 xkit==0.0.0
+=======
+streamlit==1.15.0
+requests==2.26.0
+pillow==9.0.0
+setuptools>=65.5.0
+>>>>>>> 364ea4a934a922133b5f6a27c57dcdf23f58876d
